@@ -1,6 +1,6 @@
 package G13c_CW7;
 
-public class Main {
+public class Main2 {
 
     public static void main(String[] args) throws StoryViolationException {
         Child tom = new Riddle("Tom Marvolo Riddle", Location.England);
