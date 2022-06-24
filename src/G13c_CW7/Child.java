@@ -1,4 +1,4 @@
-package Final;
+package G13c_CW7;
 
 public class Child extends Character{
     public Child(String name, Location location) {
